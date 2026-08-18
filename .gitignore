@@ -1,3 +1,6 @@
 
 Stocker_sourcecode/.DS_Store
 .DS_Store
+bin/
+*.jar
+*.class
